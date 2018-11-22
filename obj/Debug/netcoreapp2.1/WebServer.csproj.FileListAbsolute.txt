@@ -1,0 +1,14 @@
+/Users/basil/Desktop/webapi/WebServer/bin/Debug/netcoreapp2.1/WebServer.deps.json
+/Users/basil/Desktop/webapi/WebServer/bin/Debug/netcoreapp2.1/WebServer.runtimeconfig.json
+/Users/basil/Desktop/webapi/WebServer/bin/Debug/netcoreapp2.1/WebServer.runtimeconfig.dev.json
+/Users/basil/Desktop/webapi/WebServer/bin/Debug/netcoreapp2.1/WebServer.dll
+/Users/basil/Desktop/webapi/WebServer/bin/Debug/netcoreapp2.1/WebServer.pdb
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.csprojAssemblyReference.cache
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.csproj.CoreCompileInputs.cache
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.RazorAssemblyInfo.cache
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.RazorAssemblyInfo.cs
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.AssemblyInfoInputs.cache
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.AssemblyInfo.cs
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.RazorTargetAssemblyInfo.cache
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.dll
+/Users/basil/Desktop/webapi/WebServer/obj/Debug/netcoreapp2.1/WebServer.pdb
